@@ -1,0 +1,28 @@
+h1, h2, h3, h4 {;
+                color: forestgreen; background-color: grey;
+                font-size: 30px;
+            }
+
+            h1 {
+                color: coral;
+                /*color: forestgreen;*/
+            }
+
+            .important {
+                color: red;
+                background-color: goldenrod;
+            }
+
+            .uppercase {
+                text-transform: uppercase;
+                color: pink;
+                background-color: lightgray;
+            }
+
+            #mrjones {
+                color: burlywood;
+            }
+
+            #theOne {
+                color: blue;
+            }
